@@ -4,7 +4,7 @@ This notes app offers powerful organization tools, featuring built-in searching 
 
 ## Technologies
 
-*HTML – Structures web content.
-*CSS – Styles the user interface.
-*JavaScript – Adds interactivity.
+* HTML – Structures web content.
+* CSS – Styles the user interface.
+* JavaScript – Adds interactivity.
 
